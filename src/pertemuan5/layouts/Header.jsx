@@ -38,7 +38,7 @@ export default function Header() {
                 {/* Profile Section */}
                 <div className="flex items-center space-x-4 border-l pl-4 border-gray-200 group">
                     <span className="text-gray-700 transition-all duration-300 group-hover:text-green-600">
-                        Hello, <b className="text-green-600">Nur Annisa</b>
+                        Hello, <b className="text-green-600">Nafisa Tahera</b>
                     </span>
                     <img
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIe3VuOA6oMIqC9QIR6mkvfG9stciQXtOZ4A&s"
